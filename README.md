@@ -7,7 +7,7 @@ I transform raw data into actionable insights that drive business decisions.
 
 
 ## 🔭 Current Focus
-* Working on: Sales & CRM Analytics Solutions
+* Working on: Sales/Marketing & CRM Analytics Solutions
 * Building: Automated BI pipelines that save 10+ hours weekly
 * Learning: Advanced dashboard design & Positron software capabilities
 
