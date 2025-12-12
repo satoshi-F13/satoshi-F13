@@ -8,15 +8,16 @@ I transform raw data into actionable insights that drive business decisions.
 
 ## 🔭 Current Focus
 * Working on: Sales/Marketing & CRM Analytics Solutions
-* Building: Automated BI pipelines that save 10+ hours weekly
+* Building: Automated BI pipelines, such as Auto-Document generation, that save 10+ hours weekly
 * Learning: Advanced dashboard design & Positron software capabilities
 
 
 ## 🌱 Currently Learning
 
-* Positron IDE - Exploring next-gen data science workflows
+* LLMs + AI Assistant Apps 
 * Advanced Shiny Apps - Building interactive BI solutions
 * Auto-documentation - Making my analyses self-documenting
+  
 
 
 
