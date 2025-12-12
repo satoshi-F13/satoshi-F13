@@ -23,7 +23,7 @@ I transform raw data into actionable insights that drive business decisions.
 ## 📈 GitHub Stats
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satoshi-F13&theme=react)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satoshi-F13&theme=react)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
    
 
