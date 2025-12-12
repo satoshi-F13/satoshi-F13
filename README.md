@@ -23,5 +23,4 @@ I transform raw data into actionable insights that drive business decisions.
 📈 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshi-F13&layout=compact&theme=react&bg_color=775457&title_color=fde6c2&text_color=f1f7fa" alt="Top Languages" />
-</div>
 
